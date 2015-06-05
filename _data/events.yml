@@ -797,6 +797,22 @@
   content:
     slides: https://speakerdeck.com/pardom/kotlin-new-hope-in-a-java-6-wasteland
 
+- title: IT Letnik
+  url: http://itletnik.ru
+  subject: "Kotlin integration into Java production"
+  speaker: Aleksey Zhidkov
+  date: 2015-06-11]
+  location: Novosibirsk, Russia
+  lang: ru
+  
+- title: LambdaNsk
+  url: http://vk.com/lambdansk
+  subject: "Functional programming in Kotlin"
+  speaker: Aleksey Zhidkov
+  date: 2015-06-21]
+  location: Novosibirsk, Russia
+  lang: ru
+
 - title: CurryOn'15
   url: http://curry-on.org/2015/sessions/kotlin-challenges-in-language-design.html
   subject: "Kotlin: Challenges in programming language design"
